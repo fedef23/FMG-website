@@ -1,0 +1,13 @@
+# Materiale di partenza interno (bozze, documenti, sorgenti del logo): non va nel repository
+materiale_FMG/
+
+# Archivi delle bozze
+*.zip
+
+# File di sistema ed editor
+.DS_Store
+Thumbs.db
+*~
+*.swp
+.vscode/
+.idea/
